@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.sass-cache
+*.bundle
+*.cache
+*.log
+package-lock.json
+bin
+build
+dist
+node_modules
