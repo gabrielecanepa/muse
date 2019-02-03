@@ -5,7 +5,7 @@
 *.cache
 *.log
 package-lock.json
-bin
-build
-dist
-node_modules
+bin/
+build/
+dist/
+node_modules/
